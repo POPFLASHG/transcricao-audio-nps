@@ -26,7 +26,7 @@ A análise é baseada no **Net Promoter Score (NPS)** para entender melhor a sat
 ## 📌 Como Usar  
 1️⃣ Clone este repositório: 
 ```bash
-[git clone https://github.com/POPFLASHG/transcricao-audio-nps.git](https://github.com/POPFLASHG/transcricao-audio-nps.git)
+https://github.com/POPFLASHG/transcricao-audio-nps.git
 ````
 2️⃣ Instale as dependências necessárias: 
 ```bash
